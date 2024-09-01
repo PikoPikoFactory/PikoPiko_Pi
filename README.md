@@ -31,6 +31,7 @@
 > height = 64  
 
 - 変更した設定ファイルを以下に置きます。
+ [mt32-pi.cfg](/Software/mt32-pi.cfg)
 
 ## 接続
 - MIDI INにMIDI機器のMIDI OUTを接続します。
