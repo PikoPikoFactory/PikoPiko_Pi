@@ -25,10 +25,10 @@
 - zipファイルを解凍して、中身を別途用意したmicro SDカードにコピーします。
 - 設定ファイル mt32-pi.cfg に変更を加えます。以下の項目を書き換えます。
 > usb = off
->  output_device = i2s
-> scheme = simple_buttons
-> type = ssd1306_i2c
-> height = 64
+>  output_device = i2s  
+> scheme = simple_buttons  
+> type = ssd1306_i2c  
+> height = 64  
 
 - 変更した設定ファイルを以下に置きます。
 
